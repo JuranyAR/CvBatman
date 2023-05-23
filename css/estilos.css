@@ -1,0 +1,55 @@
+body{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    margin: 0;
+}
+header{
+    text-align: center;
+    background: #E6E6E6;
+    font-size: 16px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+header h1{
+    height: 60px;
+    margin-bottom: 120px;
+    letter-spacing: 12px;
+}
+.title{
+    background: #C4C4C4;
+    color: #005677;
+}
+h2.title{
+    font-size: 20px;
+    letter-spacing: 5px;
+    padding-left: 10px;
+}
+li > span{
+    font-weight: 600;
+    font-style: italic;
+}
+dl{
+    font-size: 15px;
+    margin-left: 20px;
+}
+dl>dt>span{
+    font-weight: 600;
+}
+dl>dd{
+    padding-left: 35px;
+    padding-bottom: 10px;
+}
+
+footer{
+    background: #005677;
+    height: 35px;
+    margin-top: 147px;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+}
+footer img{
+    padding-left: 10px;
+    padding-top: 4px;
+}
